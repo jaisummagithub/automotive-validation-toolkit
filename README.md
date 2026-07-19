@@ -6,7 +6,7 @@ The toolkit currently contains two independent tools, each in its own folder wit
 
 | Tool | Folder | Purpose |
 |------|--------|---------|
-| **DTC Parser** | [`dtc-parser/`](./dtc-parser) | Extracts and tabulates Diagnostic Trouble Codes (DTCs) from ECU diagnostic logs exported by a **Bosch UDS tool**. |
+| **DTC Parser** | [`dtc-parser/`](./dtc-parser) | Extracts and tabulates Diagnostic Trouble Codes (DTCs) from ECU diagnostic logs exported by a **Bosch UDS diagnostic tool**. |
 | **Audio Pop Sound Detector** | [`audio-pop-detector/`](./audio-pop-detector) | Analyses audio recordings to detect amplitude "pop" events and timestamp them against real time. |
 
 ## Repository layout

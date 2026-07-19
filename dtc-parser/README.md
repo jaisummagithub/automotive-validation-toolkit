@@ -64,7 +64,7 @@ python DTC_PARSER.py
 
 ## Input log format
 
-The parser expects the plain-text `DTC_*.txt` diagnostic logs exported by a **Bosch UDS tool** — filenames start with `DTC_` and end with `.txt`. Each log contains ECU header blocks in the form:
+The parser expects the plain-text `DTC_*.txt` diagnostic logs exported by a **Bosch UDS diagnostic tool** — filenames start with `DTC_` and end with `.txt`. Each log contains ECU header blocks in the form:
 
 ```
 Reading DTCs from <ECU Name>
