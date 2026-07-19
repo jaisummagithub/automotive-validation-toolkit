@@ -1,0 +1,52 @@
+Reading DTCs from	Engine Control Module
+	Filter set OK for ECU: ECM
+No DTCs Stored	
+Reading DTCs from	Transmission Control Module
+	Filter set OK for ECU: TCM
+No DTCs Stored	
+Reading DTCs from	Anti-lock Braking System
+	Filter set OK for ECU: ABS
+ECU Reports	1 DTCs
+C123456	(Sample) Wheel Speed Sensor - Circuit Open. ;
+Note: This is a synthetic sample description for demonstration only.
+1) Do a check of the circuit for continuity.
+If there is a fault. Repair the circuit.
+2) Do a check of the harness for damage.
+If there is a fault. Repair the harness.
+3) Clear the DTC. Then test again.
+
+Test Failed.
+Test Failed This Cycle.
+Confirmed DTC.
+Test Failed Since Last Clear.
+
+Reading DTCs from	Body Control Module
+	Filter set OK for ECU: BCM
+ECU Reports	2 DTCs
+B100100	(Sample) Interior Lamp - Message Missing.
+Note: Synthetic sample data for parser demonstration.
+Confirmed DTC.
+Test Failed Since Last Clear.
+
+U010000	(Sample) Lost Communication With Gateway Module.
+Note: Synthetic sample data for parser demonstration.
+Pending DTC.
+Confirmed DTC.
+
+Reading DTCs from	Instrument Cluster
+	Filter set OK for ECU: IC
+No DTCs Stored	
+Reading DTCs from	HVAC Module
+	Filter set OK for ECU: HVAC
+ECU Reports	1 DTCs
+P045000	(Sample) Evaporative Emission System - Sensor Signal Invalid.
+Note: Synthetic sample data for parser demonstration.
+Test Failed.
+Confirmed DTC.
+
+Reading DTCs from	Airbag Control Unit
+	Filter set OK for ECU: ACU
+No DTCs Stored	
+Reading DTCs from	Gateway Module
+	Filter set OK for ECU: GW
+No DTCs Stored	

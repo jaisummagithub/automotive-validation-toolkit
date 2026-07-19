@@ -1,0 +1,24 @@
+Reading DTCs from	Engine Control Module
+	Filter set OK for ECU: ECM
+No DTCs Stored	
+Reading DTCs from	Transmission Control Module
+	Filter set OK for ECU: TCM
+No DTCs Stored	
+Reading DTCs from	Anti-lock Braking System
+	Filter set OK for ECU: ABS
+No DTCs Stored	
+Reading DTCs from	Body Control Module
+	Filter set OK for ECU: BCM
+No DTCs Stored	
+Reading DTCs from	Instrument Cluster
+	Filter set OK for ECU: IC
+No DTCs Stored	
+Reading DTCs from	HVAC Module
+	Filter set OK for ECU: HVAC
+No DTCs Stored	
+Reading DTCs from	Airbag Control Unit
+	Filter set OK for ECU: ACU
+No DTCs Stored	
+Reading DTCs from	Gateway Module
+	Filter set OK for ECU: GW
+No DTCs Stored	
